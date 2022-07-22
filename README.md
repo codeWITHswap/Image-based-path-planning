@@ -13,3 +13,5 @@ Steps to be following:
 (2) Apply a pseudo-configuration-space transform to the cost image to account for the size of the robot.
 (3) Project the goal point into the image-space (unless the goal can be visually identified in the image).
 (4) Plan a pixel-to-pixel path from a pixel at the bottom of the image (a point right in front of the robot) to the goal pixel
+
+I will be implementing the novel approach mentioned in the following paper : https://ieeexplore.ieee.org/document/4543623
